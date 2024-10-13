@@ -3,7 +3,7 @@ import React from 'react';
 const Card = () => {
     return (
         <div>
-            
+            <h2>This is card</h2>
         </div>
     );
 };
